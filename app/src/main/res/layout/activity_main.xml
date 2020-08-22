@@ -85,6 +85,12 @@
         android:layout_height="wrap_content"
         android:text="마케팅정보활용동의"/>
 
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/tje_logo_01"/>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
